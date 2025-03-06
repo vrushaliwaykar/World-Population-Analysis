@@ -50,6 +50,9 @@ Before analyzing the dataset, we performed the following data cleaning steps:
 •	Population Growth Trends by Continent  
 •	Comparison of Population Density Across Countries  
 
+# Results  
+![Alt text](https://github.com/vrushaliwaykar/World-Population-Analysis/blob/main/Dashboard.PNG?raw=true)
+
 # Conclusion  
 The analysis of world population trends (1970-2022) reveals significant growth, with major contributions from countries like China and India. Population distribution varies across continents, impacting resources and development. Interactive Power BI dashboards help visualize these trends for better decision-making.
 
